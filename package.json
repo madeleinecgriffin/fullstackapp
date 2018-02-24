@@ -1,0 +1,26 @@
+{
+  "name": "fullstackapp",
+  "version": "1.0.0",
+  "description": "for class - learning Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeleinecgriffin/fullstackapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeleinecgriffin/fullstackapp/issues"
+  },
+  "homepage": "https://github.com/madeleinecgriffin/fullstackapp#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.16.2",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  }
+}
